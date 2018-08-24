@@ -3,3 +3,6 @@ Based on the pytorch tutorial with some modify in order to satisfied sequence la
 
 
 Not yet complete
+
+
+based on MSRA corpus
